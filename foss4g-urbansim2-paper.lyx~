@@ -76,15 +76,24 @@ Introduction
 \end_layout
 
 \begin_layout Standard
-UrbanSim is an open source software platform for agent-based geospatial
- simulation, focusing on the spatial dynamics of urban development.
- It simulates the choices of locations of households and businesses in a
- metropolitan region in order to predict demand for public infrastructure
- including electricity, water, and green space.
- It has been most widely used for regional transportation planning, to assess
- the impacts of transit and roadway projects on patterns of urban development,
- and the indirect effects these have on travel demand.
- In recent years, urban models are increasingly used to understand how to
+Just testing the Github process here...
+ will do this for real once I know how this works.
+\end_layout
+
+\begin_layout Standard
+UrbanSim is an open source software package used to forecast the future
+ locations of households and businesses in a regional economy in order to
+ predict demand for public infrastructure including electricity, water,
+ and greenspace, but in most practical planning applications UrbanSim’s
+ raison d’etre is to allocate agents in a city to predict demand for transportat
+ion infrastructure.
+ An accurate assessment of the spatial distribution of households and businesses
+ must be known in order to predict travel between people and their jobs
+ and other non-work destinations (e.g.
+ shopping, restaurants, and social trips) and when current transportation
+ infrastructure will reach capacity and new roads, transit lines, and ped-
+ and bike- infrastructure will need to be built.
+ In recent years, these models are increasingly used to understand how to
  reach sustainability goals, including reducing water usage, land consumption,
  and how to substitute sustainable modes like transit, walking, and biking
  for increasing automobile use.
@@ -92,10 +101,10 @@ UrbanSim is an open source software platform for agent-based geospatial
 \end_layout
 
 \begin_layout Standard
-UrbanSim has been an open source platform for over 15 years with the most
- cited publication having been published in 2002 (cite) and the travel demand
- forecasting models UrbanSim is designed to interoperate with were proposed
- almost 40 years ago (cite).
+UrbanSim has existed for 15 years with the most cited publication having
+ been published in 2002 (cite) and the travel demand forecasting models
+ UrbanSim is designed to interoperate with were proposed almost 40 years
+ ago (cite).
  Since its creation UrbanSim has been used in the official planning process
  for X number of Metropolitan Planning Organizations which are used to allocate
  billions of dollars in regional investments in transportation infrastructure
